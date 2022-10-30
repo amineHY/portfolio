@@ -37,15 +37,9 @@ Télédiagnostic des capteurs de surveillance des trains
 
 #### Médias
 
-![Untitled](Portfolio/Untitled.png)
-
-![Untitled](Portfolio/Untitled%201.png)
-
-![Untitled](Portfolio/Untitled%202.png)
-
-![Untitled](Portfolio/Untitled%203.png)
-
-![Untitled](Portfolio/Untitled%204.png)
+| ![Untitled](Portfolio/Untitled%202.png) | ![Untitled](Portfolio/Untitled%204.png) |
+| :-------------------------------------: | :-------------------------------------: |
+| ![Untitled](Portfolio/Untitled%203.png) | ![Untitled](Portfolio/Untitled%201.png) |
 
 ### @ TAG Hueur - LVMH
 
@@ -67,11 +61,9 @@ Télédiagnostic des capteurs de surveillance des trains
 
 #### Média
 
-![Untitled](Portfolio/Untitled%205.png)
-
-![Untitled](Portfolio/Untitled%206.png)
-
----
+| ![Untitled](Portfolio/Untitled%205.png) |
+| :-------------------------------------: ||
+| ![Untitled](Portfolio/Untitled%206.png) |
 
 ### @ Drone Volt Group
 
@@ -93,17 +85,9 @@ Télédiagnostic des capteurs de surveillance des trains
 
 #### Média
 
--
-
-![Untitled](Portfolio/Untitled%207.png)
-
-![Untitled](Portfolio/Untitled%208.png)
-
-![Untitled](Portfolio/Untitled%209.png)
-
-![Untitled](Portfolio/Untitled%2010.png)
-
----
+| ![Untitled](Portfolio/Untitled%2010.png) | ![Untitled](Portfolio/Untitled%209.png) |
+| :--------------------------------------: | :-------------------------------------: |
+| ![Untitled](Portfolio/Untitled%207.png)  | ![Untitled](Portfolio/Untitled%208.png) |
 
 ### @ IAS - LSS
 
@@ -125,15 +109,10 @@ Télédiagnostic des capteurs de surveillance des trains
 
 #### Média
 
-![2022-10-18_22-36_2.png](Portfolio/2022-10-18_22-36_2.png)
+| ![2022-10-18_22-36.png](Portfolio/2022-10-18_22-36.png) | ![2022-10-18_22-36_2.png](Portfolio/2022-10-18_22-36_2.png) |
+| :---------------------------------------------------------: | :-----------------------------------------------------: |
+|          ![Untitled](Portfolio/Untitled%2012.png)           |        ![Untitled](Portfolio/Untitled%2011.png)         |
 
-![Untitled](Portfolio/Untitled%2011.png)
-
-![Untitled](Portfolio/Untitled%2012.png)
-
-![2022-10-18_22-36.png](Portfolio/2022-10-18_22-36.png)
-
----
 
 ### @ ENP
 
@@ -155,15 +134,9 @@ Télédiagnostic des capteurs de surveillance des trains
 
 #### Média
 
-![The-Principle-of-an-EEG-System-1.png](Portfolio/The-Principle-of-an-EEG-System-1.png)
-
-![2022-10-18_22-39.png](Portfolio/2022-10-18_22-39.png)
-
-![2022-10-18_22-40.png](Portfolio/2022-10-18_22-40.png)
-
-![2022-10-18_22-41.png](Portfolio/2022-10-18_22-41.png)
-
----
+| ![The-Principle-of-an-EEG-System-1.png](Portfolio/The-Principle-of-an-EEG-System-1.png) | ![2022-10-18_22-39.png](Portfolio/2022-10-18_22-39.png) |
+| :-------------------------------------------------------------------------------------: | :-----------------------------------------------------: |
+|                 ![2022-10-18_22-40.png](Portfolio/2022-10-18_22-40.png)                 | ![2022-10-18_22-41.png](Portfolio/2022-10-18_22-41.png) |
 
 ## Liste de publication scientifique
 
@@ -188,8 +161,6 @@ Hadj-Youcef, M. E. (2018). _Spatio spectral reconstruction from low-resolution m
 Hadj-Youcef, M. A., Orieux, F., Fraysse, A., & Abergel, A. (2018). Spatio-spectral multichannel reconstruction from few low-resolution multispectral data. _2018 26th European Signal Processing Conference (**EUSIPCO**)_, 1980–1984.
 
 Hadj-Youcef, M. A., Adnane, M., & Bousbia-Salah, A. (2013). Detection of epileptics during seizure-free periods. _2013 8th International Workshop on Systems, Signal Processing and Their Applications, **WoSSPA** 2013_, _May_, 209–213. https://doi.org/10.1109/WoSSPA.2013.6602363
-
----
 
 ## Poster de conférence
 
