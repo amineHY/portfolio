@@ -41,20 +41,21 @@
 
 ## Compétence Techniques
 
-| Domaine            | Outils                                   |
-| ------------------ | ---------------------------------------- |
-| OS                 | Linux, Windows                           |
-| Data Visualisation | PowerBI, Tableau, Redash                 |
-| Big Data           | Apache Spark, Azure Databricks           |
-| Data Science       | Python, SQL, NumPy, pandas, Apache Spark |
-| Machine Learning   | Scikit-learn, AWS Sagemaker, HyperOpt    |
-| MLOps              | MLflow                                   |
-| DevOps             | Git, Docker, GitHub                      |
-| Cloud              | Microsoft Azure, AWS, GCP                |
-| Computer Vision    | OpenCV, Tensorflow                       |
-| NLP                | Spicy, NLTK                              |
-| Gestion de Projet  | Microsoft Teams, JIRA Notion             |
-| Web                | Flask, FastAPI, Postman                  |
+| Domaine           | Outils                                       |
+| ----------------- | -------------------------------------------- |
+| OS                | Linux, Windows                               |
+| Data Eng          | Airtable, postgres, Delta Lake               |
+| Data Vis          | PowerBI, Tableau, Redash                     |
+| Big Data          | Apache Spark, Azure Databricks               |
+| Data Science      | Python, SQL, NumPy, pandas, Apache Spark     |
+| Machine Learning  | Scikit-learn, AWS Sagemaker, HyperOpt        |
+| MLOps             | MLflow                                       |
+| DevOps            | Git, GitHub, Docker, Flask, FastAPI, Postman |
+| Cloud             | Microsoft Azure, AWS, GCP                    |
+| Computer Vision   | OpenCV, Tensorflow                           |
+| NLP               | Spicy, NLTK                                  |
+| Gestion de Projet | Microsoft Teams, JIRA, Notion                |
+| Data              | PNG/JPG, MP4, JSON, CSV, Delta               |
 
 ## Langues
 
@@ -137,7 +138,7 @@
 - ****Média****
   | ![2022-10-18_22-36.png](Portfolio/2022-10-18_22-36.png) | ![2022-10-18_22-36_2.png](Portfolio/2022-10-18_22-36_2.png) |
   | :-----------------------------------------------------: | :---------------------------------------------------------: |
-  | ![Untitled](Portfolio/Untitled%2012.png) | ![Untitled](Portfolio/Untitled%2011.png) |
+  |        ![Untitled](Portfolio/Untitled%2012.png)         |          ![Untitled](Portfolio/Untitled%2011.png)           |
 
 ### @ ENP
 
@@ -151,7 +152,7 @@
 * ****Média****
   | ![The-Principle-of-an-EEG-System-1.png](Portfolio/The-Principle-of-an-EEG-System-1.png) | ![2022-10-18_22-39.png](Portfolio/2022-10-18_22-39.png) |
   | :-------------------------------------------------------------------------------------: | :-----------------------------------------------------: |
-  | ![2022-10-18_22-40.png](Portfolio/2022-10-18_22-40.png) | ![2022-10-18_22-41.png](Portfolio/2022-10-18_22-41.png) |
+  |                 ![2022-10-18_22-40.png](Portfolio/2022-10-18_22-40.png)                 | ![2022-10-18_22-41.png](Portfolio/2022-10-18_22-41.png) |
 
 ---
 
