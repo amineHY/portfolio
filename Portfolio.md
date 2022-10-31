@@ -10,6 +10,7 @@
 ![](photo%20de%20profile_2020_light.png)
 
 ---
+
 ## Compétence Clés
 
 1. Solution engineer:
@@ -38,73 +39,73 @@
 | Web                | Flask, FastAPI, Postman                  |
 
 ## Langues
+
 - Français : Courant
 - Anglais : Courant
 
-
 ---
+
 ## Résumé
 
 - Docteur data Scientist, mon objectif est d'accompagner les clients sur leurs projets data, de la définition du besoin jusqu'à la mise en production, dans le but de résoudre des problématiques métiers concrets d'apporter de la valeur ajoutée et d'augmenter le chiffre d'affaires.
--  J’attache de l’importance au transfert de connaissances par le biais de l’encadrement et de la formation des juniors.
-
-
+- J’attache de l’importance au transfert de connaissances par le biais de l’encadrement et de la formation des juniors.
 
 ## Réalisations
 
 ### @ SNCF
 
-- **Titre**  : Télédiagnostic des capteurs de surveillance des trains
+- **Titre** : Télédiagnostic des capteurs de surveillance des trains
 
--  **Description de la réalisation** : Dans le cadre du projet télédiagnostic des capteurs de contrôle de vitesse, l’objectif est de développer des pipelines de traitements des données massives pour la détection des pannes et l’industrialisation de l’envoi automatique des alarmes au centre de supervision.
+- **Description de la réalisation** : Dans le cadre du projet télédiagnostic des capteurs de contrôle de vitesse, l’objectif est de développer des pipelines de traitements des données massives pour la détection des pannes et l’industrialisation de l’envoi automatique des alarmes au centre de supervision.
 
--  **Project solution**: 
-   -  Mise en place d’un pipeline d'ingestion des données en streaming provenant des capteurs connectés en utilisant Azure Databricks (Delta Live Table) et Apache Spark.
-   - Amélioration de la maintenance _des capteurs de la vitesse_ des trains à travers l’industrialisation de pipeline de traitement des données massives pour la détection de pannes et l’envoi automatique des alarmes vers le centre de supervision (Databricks Workflows, Apache Spark, Python, SQL).
+- ****Solution du projet****:
 
--  Médias
+  - Mise en place d’un pipeline d'ingestion des données en streaming provenant des capteurs connectés en utilisant Azure Databricks (Delta Live Table) et Apache Spark.
+  - Amélioration de la maintenance _des capteurs de la vitesse_ des trains à travers l’industrialisation de pipeline de traitement des données massives pour la détection de pannes et l’envoi automatique des alarmes vers le centre de supervision (Databricks Workflows, Apache Spark, Python, SQL).
+
+- **Média**
   | ![Untitled](Portfolio/Untitled%202.png) | ![Untitled](Portfolio/Untitled%204.png) |
   | :-------------------------------------: | :-------------------------------------: |
   | ![Untitled](Portfolio/Untitled%203.png) | ![Untitled](Portfolio/Untitled%201.png) |
 
 ### @ TAG Hueur - LVMH
 
-- **Titre**  du projet : Amélioration des KPI de l’application running de la montre _TAG Hueur Connected_
+- **Titre** du projet : Amélioration des KPI de l’application running de la montre _TAG Hueur Connected_
 
--  Description de la réalisation
--  Project solution: -
+- Description de la réalisation
+- **Solution du projet**: -
 
--  URL Projet
+- **URL du Projet**
 
 - [https://www.tagheuer.com/fr/fr/smartwatches/collection-connected.html](https://www.tagheuer.com/fr/fr/smartwatches/collection-connected.html)
 
--  Média
+- **Média**
   | ![Untitled](Portfolio/Untitled%205.png) |
   | :-------------------------------------: |
   | ![Untitled](Portfolio/Untitled%206.png) |
 
 ### @ Drone Volt Group
 
-- **Titre**  du projet
+- **Titre** du projet
 
 - Fire Detection using Deep Learning Deployed on PENSAR
 
--  Description de la réalisation
+- Description de la réalisation
 
 - The deep learning model for the detection of fire in a video. The algorithm is embedded in the edge camera and runs in real-time. Collecting and annotating data to Training and testing a deep learning model.
 
--  Project solution
+- **Solution du projet**
 
 -
 
--  URL Projet
+- **URL du Projet**
 
 - [https://pensarsdk.com/](https://pensarsdk.com/)
 
--  Média
-| ![Untitled](Portfolio/Untitled%2010.png) | ![Untitled](Portfolio/Untitled%209.png) |
-| :--------------------------------------: | :-------------------------------------: |
-| ![Untitled](Portfolio/Untitled%207.png)  | ![Untitled](Portfolio/Untitled%208.png) |
+- **Média**
+  | ![Untitled](Portfolio/Untitled%2010.png) | ![Untitled](Portfolio/Untitled%209.png) |
+  | :--------------------------------------: | :-------------------------------------: |
+  | ![Untitled](Portfolio/Untitled%207.png)  | ![Untitled](Portfolio/Untitled%208.png) |
 
 ### @ IAS - LSS
 
@@ -112,32 +113,31 @@
 
 - **Description de la réalisation** : In charge of innovating a data processing solution for the JWST / NASA space telescope (14 countries, budget> $ 10 billion)
 
-- **Project solution**: ...
-- **URL Projet** : [https://sci.esa.int/web/jwst/-/46826-miri-the-mid-infrared-instrument-on-jwst](https://sci.esa.int/web/jwst/-/46826-miri-the-mid-infrared-instrument-on-jwst)
+- ****Solution du projet****: ...
+- **URL du Projet** : [https://sci.esa.int/web/jwst/-/46826-miri-the-mid-infrared-instrument-on-jwst](https://sci.esa.int/web/jwst/-/46826-miri-the-mid-infrared-instrument-on-jwst)
 
-- **Média**
+- ****Média****
   | ![2022-10-18_22-36.png](Portfolio/2022-10-18_22-36.png) | ![2022-10-18_22-36_2.png](Portfolio/2022-10-18_22-36_2.png) |
   | :-----------------------------------------------------: | :---------------------------------------------------------: |
-  |        ![Untitled](Portfolio/Untitled%2012.png)         |          ![Untitled](Portfolio/Untitled%2011.png)           |
-
+  | ![Untitled](Portfolio/Untitled%2012.png) | ![Untitled](Portfolio/Untitled%2011.png) |
 
 ### @ ENP
 
-* **Titre du projet**: Fire Detection using Deep Learning Deployed on PENSAR
+- **Titre du projet**: Fire Detection using Deep Learning Deployed on PENSAR
 
-* **Description de la réalisation**:  The deep learning model for the detection of fire in a video. The algorithm is embedded in the edge camera and runs in real-time. Collecting and annotating data to Training and testing a deep learning model.
-- **URL Projet**: [https://ieeexplore.ieee.org/abstract/document/6602363](https://ieeexplore.ieee.org/abstract/document/6602363)
+- **Description de la réalisation**: The deep learning model for the detection of fire in a video. The algorithm is embedded in the edge camera and runs in real-time. Collecting and annotating data to Training and testing a deep learning model.
 
-- **Project solution**: ...
-- **Média**
+* **URL du Projet**: [https://ieeexplore.ieee.org/abstract/document/6602363](https://ieeexplore.ieee.org/abstract/document/6602363)
+
+* ****Solution du projet****: ...
+* ****Média****
   | ![The-Principle-of-an-EEG-System-1.png](Portfolio/The-Principle-of-an-EEG-System-1.png) | ![2022-10-18_22-39.png](Portfolio/2022-10-18_22-39.png) |
   | :-------------------------------------------------------------------------------------: | :-----------------------------------------------------: |
-  |                 ![2022-10-18_22-40.png](Portfolio/2022-10-18_22-40.png)                 | ![2022-10-18_22-41.png](Portfolio/2022-10-18_22-41.png) |
+  | ![2022-10-18_22-40.png](Portfolio/2022-10-18_22-40.png) | ![2022-10-18_22-41.png](Portfolio/2022-10-18_22-41.png) |
 
 ---
 
 ## Liste de publication scientifique
-
 
 ### Publication dans des journaux scientifiques
 
