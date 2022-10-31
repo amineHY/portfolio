@@ -1,9 +1,12 @@
 
 - [Portfolio de projet](#portfolio-de-projet)
   - [Compétence Clés](#compétence-clés)
+  - [3. Mentorat et formation professionnelle](#3-mentorat-et-formation-professionnelle)
   - [Compétence Techniques](#compétence-techniques)
+  - [| Data              | PNG/JPG, MP4, JSON, CSV/Excel, XML, Delta    |](#-data---------------pngjpg-mp4-json-csvexcel-xml-delta----)
   - [Langues](#langues)
   - [Résumé](#résumé)
+  - [- J’attache de l’importance au transfert de connaissances par le biais de l’encadrement et de la formation des juniors.](#--jattache-de-limportance-au-transfert-de-connaissances-par-le-biais-de-lencadrement-et-de-la-formation-des-juniors)
   - [Réalisations](#réalisations)
     - [@ SNCF Réseau](#-sncf-réseau)
     - [@ TAG Hueur - LVMH](#-tag-hueur---lvmh)
@@ -38,7 +41,7 @@
 2. Définition du besoin métier et conseil sur la mise en place d’une solution technique
 
 3. Mentorat et formation professionnelle
-
+---
 ## Compétence Techniques
 
 | Domaine           | Outils                                       |
@@ -55,8 +58,8 @@
 | Computer Vision   | OpenCV, Tensorflow                           |
 | NLP               | Spicy, NLTK                                  |
 | Gestion de Projet | Microsoft Teams, JIRA, Notion                |
-| Data              | PNG/JPG, MP4, JSON, CSV, Delta               |
-
+| Data              | PNG/JPG, MP4, JSON, CSV/Excel, XML, Delta    |
+---
 ## Langues
 
 - Français : Courant
@@ -68,7 +71,7 @@
 
 - Docteur data Scientist, mon objectif est d'accompagner les clients sur leurs projets data, de la définition du besoin jusqu'à la mise en production, dans le but de résoudre des problématiques métiers concrets d'apporter de la valeur ajoutée et d'augmenter le chiffre d'affaires.
 - J’attache de l’importance au transfert de connaissances par le biais de l’encadrement et de la formation des juniors.
-
+---
 ## Réalisations
 
 ### @ SNCF Réseau
