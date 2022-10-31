@@ -16,6 +16,8 @@
   - [Poster de conférence](#poster-de-conférence)
 # Portfolio de projet
 
+<img src="photo%20de%20profile_2020_light.png" alt="drawing" width="200"/>
+
 | Domaine       | Outils                                          |
 | ------------- | ----------------------------------------------- |
 | Nom et Prénom | Amine Hadj-Youcef                               |
@@ -23,7 +25,7 @@
 | Secteur       | Information technologie et services             |
 | Domaine       | Industrie, Aéronautique & Spatiale, Ferroviaire |
 
-![](photo%20de%20profile_2020_light.png)
+
 
 ---
 
