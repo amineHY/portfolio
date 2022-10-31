@@ -1,21 +1,21 @@
 
-- [Portfolio de projet](#portfolio-de-projet)
+- [<3 Portfolio de projet](#3-portfolio-de-projet)
   - [Compétence Clés](#compétence-clés)
   - [3. Mentorat et formation professionnelle](#3-mentorat-et-formation-professionnelle)
   - [Compétence Techniques](#compétence-techniques)
   - [Langues](#langues)
   - [Résumé](#résumé)
   - [Réalisations](#réalisations)
-    - [@ SNCF Réseau](#-sncf-réseau)
-    - [@ TAG Hueur - LVMH](#-tag-hueur---lvmh)
-    - [@ Drone Volt Group](#-drone-volt-group)
-    - [@ IAS - LSS](#-ias---lss)
-    - [@ ENP](#-enp)
+    - [🚀 @  SNCF Réseau](#---sncf-réseau)
+    - [:rocket: @ TAG Hueur - LVMH](#rocket--tag-hueur---lvmh)
+    - [:rocket: @ Drone Volt Group](#rocket--drone-volt-group)
+    - [:rocket: @ IAS - LSS](#rocket--ias---lss)
+    - [:rocket: @ ENP](#rocket--enp)
   - [Liste de publication scientifique](#liste-de-publication-scientifique)
     - [Publication dans des journaux scientifiques](#publication-dans-des-journaux-scientifiques)
     - [Publication dans des conférence internationaux](#publication-dans-des-conférence-internationaux)
   - [Poster de conférence](#poster-de-conférence)
-# Portfolio de projet
+# <3 Portfolio de projet 
 
 <img src="photo%20de%20profile_2020_light.png" alt="drawing" width="200"/>
 
@@ -76,7 +76,7 @@
 ---
 ## Réalisations
 
-### @ SNCF Réseau
+### 🚀 @  SNCF Réseau
 
 - **Titre** : Télédiagnostic des capteurs de surveillance des trains
 
@@ -92,11 +92,11 @@
   | :-------------------------------------: | :-------------------------------------: |
   | ![Untitled](Portfolio/Untitled%203.png) | ![Untitled](Portfolio/Untitled%201.png) |
 
-### @ TAG Hueur - LVMH
+### :rocket: @ TAG Hueur - LVMH
 
 - **Titre** du projet : Amélioration des KPI de l’application running de la montre _TAG Hueur Connected_
 
-- Description de la réalisation
+- **Description de la réalisation**
 - **Solution du projet**: -
 
 - **URL du Projet**
@@ -108,30 +108,23 @@
   | :-------------------------------------: |
   | ![Untitled](Portfolio/Untitled%206.png) |
 
-### @ Drone Volt Group
+### :rocket: @ Drone Volt Group
 
-- **Titre** du projet
+- **Titre du projet** : Fire Detection using Deep Learning Deployed on PENSAR
 
-- Fire Detection using Deep Learning Deployed on PENSAR
-
-- Description de la réalisation
-
-- The deep learning model for the detection of fire in a video. The algorithm is embedded in the edge camera and runs in real-time. Collecting and annotating data to Training and testing a deep learning model.
+- **Description de la réalisation**
+  - The deep learning model for the detection of fire in a video. The algorithm is embedded in the edge camera and runs in real-time. Collecting and annotating data to Training and testing a deep learning model.
 
 - **Solution du projet**
 
--
-
-- **URL du Projet**
-
-- [https://pensarsdk.com/](https://pensarsdk.com/)
+- **URL du Projet** : [https://pensarsdk.com/](https://pensarsdk.com/)
 
 - **Média**
   | ![Untitled](Portfolio/Untitled%2010.png) | ![Untitled](Portfolio/Untitled%209.png) |
   | :--------------------------------------: | :-------------------------------------: |
   | ![Untitled](Portfolio/Untitled%207.png)  | ![Untitled](Portfolio/Untitled%208.png) |
 
-### @ IAS - LSS
+### :rocket: @ IAS - LSS
 
 - **Titre du projet** : Spatio-spectral reconstruction from multispectral data. Application to the Mid-Infrared instrument of the JWST
 
@@ -145,7 +138,7 @@
   | :-----------------------------------------------------: | :---------------------------------------------------------: |
   |        ![Untitled](Portfolio/Untitled%2012.png)         |          ![Untitled](Portfolio/Untitled%2011.png)           |
 
-### @ ENP
+### :rocket: @ ENP
 
 - **Titre du projet**: Fire Detection using Deep Learning Deployed on PENSAR
 
