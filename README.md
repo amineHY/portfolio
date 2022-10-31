@@ -5,13 +5,15 @@
   - [🔵 Socials](#-socials)
   - [🔵 Compétence Clés](#-compétence-clés)
   - [🔵 Compétence Techniques](#-compétence-techniques)
-  - [🔵 Langues](#-langues)
   - [🔵 Réalisations](#-réalisations)
     - [🚀 @  SNCF Réseau](#---sncf-réseau)
     - [:rocket: @ TAG Hueur - LVMH](#rocket--tag-hueur---lvmh)
     - [:rocket: @ Drone Volt Group](#rocket--drone-volt-group)
     - [:rocket: @ IAS - LSS](#rocket--ias---lss)
     - [:rocket: @ ENP](#rocket--enp)
+  - [🔵 Langues](#-langues)
+  - [🔵 Formations](#-formations)
+  - [🔵 Certifications](#-certifications)
   - [🔵 Liste de publication scientifique](#-liste-de-publication-scientifique)
     - [📖 Publication dans des journaux scientifiques](#-publication-dans-des-journaux-scientifiques)
     - [📖 Publication dans des conférence internationaux](#-publication-dans-des-conférence-internationaux)
@@ -55,12 +57,14 @@
 ---
 
 ## 🔵 Compétence Clés
-
-1. Solution engineer:
+1. Définition du besoin métier et conseil sur la mise en place d’une solution technique
+2. Data Science / Machine Learning
+   - Définition du besoin avec les équipes métiers
    - Préparation et analyse des données
-   - Mise en production des solutions (local ou cloud) en utilisant des outils sophistiqués
-   - Recherche et développement: PhD
-2. Définition du besoin métier et conseil sur la mise en place d’une solution technique
+   - Modélisation avec ou sans Machine learning
+   - Mise en production des solutions, en local ou sur le cloud,
+   - Recherche et développement
+
 3. Mentorat et formation professionnelle
 
 
@@ -84,11 +88,6 @@
 | Data              | PNG/JPG, MP4, JSON, CSV/Excel, XML, Delta    |
 
 
----
-## 🔵 Langues
-
-- Français : Courant
-- Anglais : Courant
 
 
 
@@ -108,7 +107,7 @@
 
 - **Média**
   | ![Untitled](images/Untitled%202.png) | ![Untitled](images/Untitled%204.png) |
-  | :-------------------------------------: | :-------------------------------------: |
+  | :----------------------------------: | :----------------------------------: |
   | ![Untitled](images/Untitled%203.png) | ![Untitled](images/Untitled%201.png) |
 
 ### :rocket: @ TAG Hueur - LVMH
@@ -124,7 +123,7 @@
 
 - **Média**
   | ![Untitled](images/Untitled%205.png) |
-  | :-------------------------------------: |
+  | :----------------------------------: |
   | ![Untitled](images/Untitled%206.png) |
 
 ### :rocket: @ Drone Volt Group
@@ -140,7 +139,7 @@
 
 - **Média**
   | ![Untitled](images/Untitled%2010.png) | ![Untitled](images/Untitled%209.png) |
-  | :--------------------------------------: | :-------------------------------------: |
+  | :-----------------------------------: | :----------------------------------: |
   | ![Untitled](images/Untitled%207.png)  | ![Untitled](images/Untitled%208.png) |
 
 ### :rocket: @ IAS - LSS
@@ -154,7 +153,7 @@
 
 - ****Média****
   | ![2022-10-18_22-36.png](images/2022-10-18_22-36.png) | ![2022-10-18_22-36_2.png](images/2022-10-18_22-36_2.png) |
-  | :-----------------------------------------------------: | :---------------------------------------------------------: |
+  | :--------------------------------------------------: | :------------------------------------------------------: |
   |        ![Untitled](images/Untitled%2012.png)         |          ![Untitled](images/Untitled%2011.png)           |
 
 ### :rocket: @ ENP
@@ -168,15 +167,49 @@
 * ****Solution du projet****: ...
 * ****Média****
   | ![The-Principle-of-an-EEG-System-1.png](images/The-Principle-of-an-EEG-System-1.png) | ![2022-10-18_22-39.png](images/2022-10-18_22-39.png) |
-  | :-------------------------------------------------------------------------------------: | :-----------------------------------------------------: |
-  |                 ![2022-10-18_22-40.png](images/2022-10-18_22-40.png)                 |![](images/2022-10-18_22-41.png)
+  | :----------------------------------------------------------------------------------: | :--------------------------------------------------: |
+  |                 ![2022-10-18_22-40.png](images/2022-10-18_22-40.png)                 |           ![](images/2022-10-18_22-41.png)           |
   
+
+
+---
+## 🔵 Langues
+| Langue   | Niveau  |
+| -------- | ------- |
+| 🇫🇷 Français | Courant |
+| 🇺🇸 Anglais  | Courant |
+
 ---
 
+## 🔵 Formations
+
+* Doctorat, Sciences et Technologies de l’Information
+  - Université Paris Saclay
+  - 2018
+* Master, Traitement du Signal et de l'image
+  * Université de Bordeaux
+  * 2015
+
+
+---
+
+## 🔵 Certifications
+
+* Hackmakers #BuildwithAI Global Hack: Mentor Certificate
+  * Hackmakers
+  * 2020
+* Deep Learning and Artificial Intelligence
+  * École Polytechnique
+  * 2018
+
+
+---
+
+
 ## 🔵 Liste de publication scientifique
-| EURASIP                                 | Medium                 | IEEE               |    A&A           |Paris Saclay|
-| ---------------------------------- | ---------------- | -------------- | ------------------------------------------------------- |-|
-| ![](logo/eurasip-logo-trans02.png) | ![](logo/medium) | ![](logo/IEEE) |  ![](logo/A_and_A) |![](logo/paris_saclay)
+| EURASIP                            | Medium           | IEEE           | A&A               | Paris Saclay           |
+| ---------------------------------- | ---------------- | -------------- | ----------------- | ---------------------- |
+| ![](logo/eurasip-logo-trans02.png) | ![](logo/medium) | ![](logo/IEEE) | ![](logo/A_and_A) | ![](logo/paris_saclay) |
 
 
 ### 📖 Publication dans des journaux scientifiques
@@ -216,4 +249,6 @@
 ### 📖 Poster de conférence
 
 [GRETSI_poster.pdf.2017_08_08_17_compressed.pdf](images/GRETSI_poster.pdf.2017_08_08_17_compressed.pdf)
+
+
 
