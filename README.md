@@ -1,7 +1,6 @@
 
 - [<3 Portfolio de projet](#3-portfolio-de-projet)
   - [Compétence Clés](#compétence-clés)
-  - [3. Mentorat et formation professionnelle](#3-mentorat-et-formation-professionnelle)
   - [Compétence Techniques](#compétence-techniques)
   - [Langues](#langues)
   - [Résumé](#résumé)
@@ -15,6 +14,7 @@
     - [Publication dans des journaux scientifiques](#publication-dans-des-journaux-scientifiques)
     - [Publication dans des conférence internationaux](#publication-dans-des-conférence-internationaux)
   - [Poster de conférence](#poster-de-conférence)
+
 # <3 Portfolio de projet 
 
 <img src="photo%20de%20profile_2020_light.png" alt="drawing" width="200"/>
@@ -37,8 +37,9 @@
    - Mise en production des solutions (local ou cloud) en utilisant des outils sophistiqués
    - Recherche et développement: PhD
 2. Définition du besoin métier et conseil sur la mise en place d’une solution technique
-
 3. Mentorat et formation professionnelle
+
+
 ---
 ## Compétence Techniques
 
