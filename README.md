@@ -6,7 +6,7 @@
   - [🔵 Compétence Clés](#-compétence-clés)
   - [🔵 Compétence Techniques](#-compétence-techniques)
   - [🔵 Réalisations](#-réalisations)
-    - [🚀 @ SNCF Réseau](#--sncf-réseau)
+    - [:rocket: @ SNCF Réseau](#rocket--sncf-réseau)
     - [:rocket: @ TAG Hueur - LVMH](#rocket--tag-hueur---lvmh)
     - [:rocket: @ Drone Volt Group](#rocket--drone-volt-group)
     - [:rocket: @ IAS - LSS](#rocket--ias---lss)
@@ -89,7 +89,7 @@
 
 ## 🔵 Réalisations
 
-### 🚀 @ SNCF Réseau
+### :rocket: @ SNCF Réseau
 
 - **Titre** : Télédiagnostic des capteurs de surveillance des trains
 
