@@ -1,6 +1,6 @@
-# Portfolio
+# Portfolio 🇫🇷
 
-- [Portfolio](#portfolio)
+- [Portfolio 🇫🇷](#portfolio-)
   - [🔵 Résumé](#-résumé)
   - [🔵 Socials](#-socials)
   - [🔵 Langues](#-langues)
@@ -18,7 +18,7 @@
     - [📖 Publication dans des journaux scientifiques](#-publication-dans-des-journaux-scientifiques)
     - [📖 Publication dans des conférence internationaux](#-publication-dans-des-conférence-internationaux)
     - [📖 Publication dans Medium](#-publication-dans-medium)
-    - [📖 Poster de conférence -->](#-poster-de-conférence---)
+    - [📖 Poster de conférence](#-poster-de-conférence)
 
 ---
 
@@ -26,17 +26,12 @@
 
 <img src="ressources/photo%20de%20profile_2020_light.png" alt="drawing" width="180"/>
 
-| Domaine       | Outils                                          |
-| ------------- | ----------------------------------------------- |
-| Nom et Prénom | HADJ-YOUCEF Amine <img src="facebook-icons-verified-badge-symbol-account-verification-blue-turquoise-azure-electric-blue-png-clip-art.png" alt="drawing" width="15"/>                              |
-| Fonction      | Senior Data Scientist / Solution Engineer       |
-| Secteur       | Information technologie et services             |
-| Domaine       | Industrie, Aéronautique & Spatiale, Ferroviaire |
-
-
-
-
-
+| Domaine       | Outils                                                                                                                                                                |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nom et Prénom | HADJ-YOUCEF Amine <img src="facebook-icons-verified-badge-symbol-account-verification-blue-turquoise-azure-electric-blue-png-clip-art.png" alt="drawing" width="15"/> |
+| Fonction      | Senior Data Scientist / Solution Engineer                                                                                                                             |
+| Secteur       | Information technologie et services                                                                                                                                   |
+| Domaine       | Industrie, Aéronautique & Spatiale, Ferroviaire                                                                                                                       |
 
 ## 🔵 Résumé
 
@@ -105,6 +100,7 @@
   - 2015
 
 ## 🔵 Certifications
+
 - [Academy Accreditation - Databricks Lakehouse Fundamentals](ressources\certificat_databricks_lakehouse.pdf)
   - Databricks
   - 2022
@@ -139,13 +135,11 @@
 
 ### :rocket: @ TAG Hueur - LVMH
 
-- **Titre** du projet : Amélioration des KPI de l’application running de la montre _TAG Hueur Connected_
+- **Titre** : Amélioration des KPI de l’application running de la montre _TAG Hueur Connected_
 
 - **Description de la réalisation**
-- **Solution du projet**: -
-
+- **Solution du projet**:
 - **URL du Projet**
-
 - [https://www.tagheuer.com/fr/fr/smartwatches/collection-connected.html](https://www.tagheuer.com/fr/fr/smartwatches/collection-connected.html)
 
 - **Média**
@@ -161,7 +155,8 @@
 
 - **Description de la réalisation**
 
-  - The deep learning model for the detection of fire in a video. The algorithm is embedded in the edge camera and runs in real-time. Collecting and annotating data to Training and testing a deep learning model.
+  - The deep learning model for the detection of fire in a video. The algorithm is embedded in the edge camera and runs in real-time.
+  - Collecting and annotating data to Training and testing a deep learning model.
 
 - **Solution du projet**
 
@@ -192,9 +187,9 @@
 
 ### :rocket: @ ENP
 
-- **Titre du projet**: Fire Detection using Deep Learning Deployed on PENSAR
+- **Titre du projet**:
 
-- **Description de la réalisation**: The deep learning model for the detection of fire in a video. The algorithm is embedded in the edge camera and runs in real-time. Collecting and a>nnotating data to Training and testing a deep learning model.
+- **Description de la réalisation**:
 
 - **URL du Projet**: [https://ieeexplore.ieee.org/abstract/document/6602363](https://ieeexplore.ieee.org/abstract/document/6602363)
 
@@ -209,8 +204,8 @@
 
 ## 🔵 Liste de publication scientifique
 
-| EURASIP                                                              | Medium                                             | IEEE                                             | A&A                                                 | Paris Saclay                                             |
-| -------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------- | -------------------------------------------------------- |
+| EURASIP                                                                         | Medium                                                        | IEEE                                                        | A&A                                                            | Paris Saclay                                                        |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- |
 | <img src="ressources/logo/eurasip-logo-trans02.png" alt="drawing" height="70"/> | <img src="ressources/logo/medium" alt="drawing" height="70"/> | <img src="ressources/logo/IEEE" alt="drawing" height="70"/> | <img src="ressources/logo/A_and_A" alt="drawing" height="70"/> | <img src="ressources/logo/paris_saclay" alt="drawing" height="70"/> |
 
 ### 📖 Publication dans des journaux scientifiques
@@ -235,7 +230,6 @@
 
 - Hadj-Youcef, M. A., Adnane, M., & Bousbia-Salah, A. (2013). Detection of epileptics during seizure-free periods. _2013 8th International Workshop on Systems, Signal Processing and Their Applications, **WoSSPA** 2013_, _May_, 209–213. [https://doi.org/10.1109/WoSSPA.2013.6602363](https://doi.org/10.1109/WoSSPA.2013.6602363)
 
-
 <div style="page-break-after: always;"></div>
 
 ### 📖 Publication dans Medium
@@ -249,6 +243,6 @@
 - [Model-centric-vs-data-centric-view-in-the-age-of-ai](https://amine-hy.medium.com/model-centric-vs-data-centric-view-in-the-age-of-ai-b59c15a53fc4)
 - [Data-visualization-using-redash-on-the-cloud](https://amine-hy.medium.com/data-visualization-using-redash-on-the-cloud-63f6d4f2f1ef)
 
-### 📖 Poster de conférence -->
+### 📖 Poster de conférence
 
-* [Poster GRETSI 2017](ressources/GRETSI_poster.pdf.2017_08_08_17_compressed.pdf)
+- [Poster GRETSI 2017](ressources/GRETSI_poster.pdf.2017_08_08_17_compressed.pdf)
