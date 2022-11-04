@@ -106,8 +106,9 @@
 
 ## 🔵 Certifications
 - [Academy Accreditation - Databricks Lakehouse Fundamentals](ressources\certificat_databricks_lakehouse.pdf)
+  - Databricks
   - 2022
-- [Hackmakers #BuildwithAI Global Hack: Mentor Certificate](ressources\Hackmakers - Hackmakers BuildwithAI 2020 Mentor Certificate - 2020-08-13.png)
+- [Hackmakers #BuildwithAI Global Hack: Mentor Certificate](ressources/Hackmakers%20-%20Hackmakers%20BuildwithAI%202020%20Mentor%20Certificate%20-%202020-08-13.png)
   - Hackmakers
   - 2020
 - Deep Learning and Artificial Intelligence
