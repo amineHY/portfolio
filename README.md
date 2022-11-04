@@ -27,10 +27,15 @@
 
 | Domaine       | Outils                                          |
 | ------------- | ----------------------------------------------- |
-| Nom et Prénom | HADJ-YOUCEF Amine                               |
+| Nom et Prénom | HADJ-YOUCEF Amine <img src="facebook-icons-verified-badge-symbol-account-verification-blue-turquoise-azure-electric-blue-png-clip-art.png" alt="drawing" width="15"/>                              |
 | Fonction      | Senior Data Scientist / Solution Engineer       |
 | Secteur       | Information technologie et services             |
 | Domaine       | Industrie, Aéronautique & Spatiale, Ferroviaire |
+
+
+
+
+
 
 ## 🔵 Résumé
 
