@@ -123,7 +123,7 @@
 
 - **Description de la réalisation** : Dans le cadre du projet télédiagnostic des capteurs de contrôle de vitesse, l’objectif est de développer des pipelines de traitements des données massives pour la détection des pannes et l’industrialisation de l’envoi automatique des alarmes au centre de supervision.
 
-- \***\*Solution du projet\*\***:
+- **Solution du projet**:
 
   - Mise en place d’un pipeline d'ingestion des données en streaming provenant des capteurs connectés en utilisant Azure Databricks (Delta Live Table) et Apache Spark.
   - Amélioration de la maintenance _des capteurs de la vitesse_ des trains à travers l’industrialisation de pipeline de traitement des données massives pour la détection de pannes et l’envoi automatique des alarmes vers le centre de supervision (Databricks Workflows, Apache Spark, Python, SQL).
@@ -178,10 +178,10 @@
 
 - **Description de la réalisation** : In charge of innovating a data processing solution for the JWST / NASA space telescope (14 countries, budget> $ 10 billion)
 
-- \***\*Solution du projet\*\***: ...
+- **Solution du projet**: ...
 - **URL du Projet** : [https://sci.esa.int/web/jwst/-/46826-miri-the-mid-infrared-instrument-on-jwst](https://sci.esa.int/web/jwst/-/46826-miri-the-mid-infrared-instrument-on-jwst)
 
-- \***\*Média\*\***
+- **Média**
   | ![2022-10-18_22-36.png](ressources/images/2022-10-18_22-36.png) | ![2022-10-18_22-36_2.png](ressources/images/2022-10-18_22-36_2.png) |
   | :--------------------------------------------------: | :------------------------------------------------------: |
   | ![Untitled](ressources/images/Untitled%2012.png) | ![Untitled](ressources/images/Untitled%2011.png) |
@@ -196,9 +196,9 @@
 
 - **URL du Projet**: [https://ieeexplore.ieee.org/abstract/document/6602363](https://ieeexplore.ieee.org/abstract/document/6602363)
 
-- \***\*Solution du projet\*\***: ...
+- **Solution du projet**: ...
 
-- \***\*Média\*\***
+- **Média**
   | ![The-Principle-of-an-EEG-System-1.png](ressources/images/The-Principle-of-an-EEG-System-1.png) | ![2022-10-18_22-39.png](ressources/images/2022-10-18_22-39.png) |
   | :----------------------------------------------------------------------------------: | :--------------------------------------------------: |
   | ![2022-10-18_22-40.png](ressources/images/2022-10-18_22-40.png) | ![image](ressources/images/2022-10-18_22-41.png) |
