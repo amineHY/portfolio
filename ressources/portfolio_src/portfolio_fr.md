@@ -143,8 +143,7 @@
 
 - **Description de la réalisation**
 - **Solution du projet**:
-- **URL du Projet**
-- [https://www.tagheuer.com/fr/fr/smartwatches/collection-connected.html](https://www.tagheuer.com/fr/fr/smartwatches/collection-connected.html)
+- **URL du Projet**: [https://www.tagheuer.com/fr/fr/smartwatches](https://www.tagheuer.com/fr/fr/smartwatches/collection-connected.html)
 
 - **Média**
   | ![Untitled](../images/Untitled%205.png) |
