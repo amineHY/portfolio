@@ -7,6 +7,8 @@
 - [Compétence Clés](#compétence-clés)
 - [Compétence Techniques](#compétence-techniques)
 - [Formations](#formations)
+    - [🎓 Doctorat, Sciences et Technologies de l’Information](#-doctorat-sciences-et-technologies-de-linformation)
+    - [🎓 Master, Traitement du Signal et de l'image](#-master-traitement-du-signal-et-de-limage)
 - [Certifications](#certifications)
 - [Réalisations](#réalisations)
   - [@ SNCF Réseau](#-sncf-réseau)
@@ -92,10 +94,12 @@
 
 ## Formations
 
-- Doctorat, Sciences et Technologies de l’Information
+#### 🎓 Doctorat, Sciences et Technologies de l’Information
   - Université Paris Saclay
   - 2018
-- Master, Traitement du Signal et de l'image
+
+
+#### 🎓 Master, Traitement du Signal et de l'image
   - Université de Bordeaux
   - 2015
 
