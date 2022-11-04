@@ -1,24 +1,24 @@
 # Portfolio 🇫🇷
-
-- [Portfolio 🇫🇷](#portfolio-)
-  - [🔵 Résumé](#-résumé)
-  - [🔵 Socials](#-socials)
-  - [🔵 Langues](#-langues)
-  - [🔵 Compétence Clés](#-compétence-clés)
-  - [🔵 Compétence Techniques](#-compétence-techniques)
-  - [🔵 Formations](#-formations)
-  - [🔵 Certifications](#-certifications)
-  - [🔵 Réalisations](#-réalisations)
-    - [:rocket: @ SNCF Réseau](#rocket--sncf-réseau)
-    - [:rocket: @ TAG Hueur - LVMH](#rocket--tag-hueur---lvmh)
-    - [:rocket: @ Drone Volt Group](#rocket--drone-volt-group)
-    - [:rocket: @ IAS - LSS](#rocket--ias---lss)
-    - [:rocket: @ ENP](#rocket--enp)
-  - [🔵 Liste de publication scientifique](#-liste-de-publication-scientifique)
-    - [📖 Publication dans des journaux scientifiques](#-publication-dans-des-journaux-scientifiques)
-    - [📖 Publication dans des conférence internationaux](#-publication-dans-des-conférence-internationaux)
-    - [📖 Publication dans Medium](#-publication-dans-medium)
-    - [📖 Poster de conférence](#-poster-de-conférence)
+---
+- [# Portfolio 🇫🇷](#-portfolio-)
+- [Résumé](#résumé)
+- [Socials](#socials)
+- [Langues](#langues)
+- [Compétence Clés](#compétence-clés)
+- [Compétence Techniques](#compétence-techniques)
+- [Formations](#formations)
+- [Certifications](#certifications)
+- [Réalisations](#réalisations)
+  - [@ SNCF Réseau](#-sncf-réseau)
+  - [@ TAG Hueur - LVMH](#-tag-hueur---lvmh)
+  - [@ Drone Volt Group](#-drone-volt-group)
+  - [@ IAS - LSS](#-ias---lss)
+  - [@ ENP](#-enp)
+- [Liste de publication scientifique](#liste-de-publication-scientifique)
+  - [📖 Publication dans des journaux scientifiques](#-publication-dans-des-journaux-scientifiques)
+  - [📖 Publication dans des conférence internationaux](#-publication-dans-des-conférence-internationaux)
+  - [📖 Publication dans Medium](#-publication-dans-medium)
+  - [📖 Poster de conférence](#-poster-de-conférence)
 
 ---
 
@@ -26,19 +26,19 @@
 
 <img src="../images/photo%20de%20profile_2020_light.png" alt="drawing" width="180"/>
 
-| Domaine       | Outils                                                                                                                                                                |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Domaine       | Outils                                                                          |
+| ------------- | ------------------------------------------------------------------------------- |
 | Nom et Prénom | HADJ-YOUCEF Amine <img src="../images/blue_tick.png" alt="drawing" width="15"/> |
-| Fonction      | Senior Data Scientist / Solution Engineer                                                                                                                             |
-| Secteur       | Information technologie et services                                                                                                                                   |
-| Domaine       | Industrie, Aéronautique & Spatiale, Ferroviaire                                                                                                                       |
+| Fonction      | Senior Data Scientist / Solution Engineer                                       |
+| Secteur       | Information technologie et services                                             |
+| Domaine       | Industrie, Aéronautique & Spatiale, Ferroviaire                                 |
 
-## 🔵 Résumé
+## Résumé
 
 - Docteur data Scientist, mon objectif est d'accompagner les clients sur leurs projets data, de la définition du besoin jusqu'à la mise en production, dans le but de résoudre des problématiques métiers concrets, d'apporter de la valeur ajoutée et d'augmenter le chiffre d'affaires.
 - J’attache de l’importance au transfert de connaissances par le biais de l’encadrement et de la formation des juniors.
 
-## 🔵 Socials
+## Socials
 
 | Website   | URL                                                                          |
 | --------- | ---------------------------------------------------------------------------- |
@@ -46,9 +46,9 @@
 | LinkedIn  | [https://www.linkedin.com/in/aminehy/](https://www.linkedin.com/in/aminehy/) |
 | Medium    | [https://amine-hy.medium.com/](https://amine-hy.medium.com/)                 |
 | Twitter   | [https://twitter.com/AmineHadjYoucef](https://twitter.com/AmineHadjYoucef)   |
-| Email     | hadjyoucef.amine@gmail.com                                                   |
+| Email     | [hadjyoucef.amine@gmail.com](hadjyoucef.amine@gmail.com)                                                   |
 
-## 🔵 Langues
+## Langues
 
 | Langue      | Niveau  |
 | ----------- | ------- |
@@ -57,7 +57,7 @@
 
 <div style="page-break-after: always;"></div>
 
-## 🔵 Compétence Clés
+## Compétence Clés
 
 1. Définition du besoin métier et conseil sur la mise en place d’une solution technique
 2. Data Science / Machine Learning
@@ -70,7 +70,7 @@
 
 3. Mentorat et formation professionnelle
 
-## 🔵 Compétence Techniques
+## Compétence Techniques
 
 | Domaine           | Outils                                       |
 | ----------------- | -------------------------------------------- |
@@ -90,7 +90,7 @@
 
 <div style="page-break-after: always;"></div>
 
-## 🔵 Formations
+## Formations
 
 - Doctorat, Sciences et Technologies de l’Information
   - Université Paris Saclay
@@ -99,7 +99,7 @@
   - Université de Bordeaux
   - 2015
 
-## 🔵 Certifications
+## Certifications
 
 - [Academy Accreditation - Databricks Lakehouse Fundamentals](ressources\certificat_databricks_lakehouse.pdf)
   - Databricks
@@ -113,9 +113,9 @@
 
 <div style="page-break-after: always;"></div>
 
-## 🔵 Réalisations
+## Réalisations
 
-### :rocket: @ SNCF Réseau
+###  @ SNCF Réseau
 
 - **Titre** : Télédiagnostic des capteurs de surveillance des trains
 
@@ -133,7 +133,7 @@
 
 <div style="page-break-after: always;"></div>
 
-### :rocket: @ TAG Hueur - LVMH
+###  @ TAG Hueur - LVMH
 
 - **Titre** : Amélioration des KPI de l’application running de la montre _TAG Hueur Connected_
 
@@ -149,7 +149,7 @@
 
 <div style="page-break-after: always;"></div>
 
-### :rocket: @ Drone Volt Group
+###  @ Drone Volt Group
 
 - **Titre du projet** : Fire Detection using Deep Learning Deployed on PENSAR
 
@@ -169,7 +169,7 @@
 
 <div style="page-break-after: always;"></div>
 
-### :rocket: @ IAS - LSS
+###  @ IAS - LSS
 
 - **Titre du projet** : Spatio-spectral reconstruction from multispectral data. Application to the Mid-Infrared instrument of the JWST
 
@@ -185,7 +185,7 @@
 
 <div style="page-break-after: always;"></div>
 
-### :rocket: @ ENP
+###  @ ENP
 
 - **Titre du projet**:
 
@@ -202,10 +202,10 @@
 
 <div style="page-break-after: always;"></div>
 
-## 🔵 Liste de publication scientifique
+## Liste de publication scientifique
 
-| EURASIP                                                                         | Medium                                                        | IEEE                                                        | A&A                                                            | Paris Saclay                                                        |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- |
+| EURASIP                                                                 | Medium                                                | IEEE                                                | A&A                                                    | Paris Saclay                                                |
+| ----------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
 | <img src="../logo/eurasip-logo-trans02.png" alt="drawing" height="70"/> | <img src="../logo/medium" alt="drawing" height="70"/> | <img src="../logo/IEEE" alt="drawing" height="70"/> | <img src="../logo/A_and_A" alt="drawing" height="70"/> | <img src="../logo/paris_saclay" alt="drawing" height="70"/> |
 
 ### 📖 Publication dans des journaux scientifiques
