@@ -11,7 +11,7 @@
     - [🎓 Master, Traitement du Signal et de l'image](#-master-traitement-du-signal-et-de-limage)
 - [Certifications](#certifications)
 - [Réalisations](#réalisations)
-  - [@ SNCF Réseau](#-sncf-réseau)
+  - [SNCF Réseau](#sncf-réseau)
   - [@ TAG Hueur - LVMH](#-tag-hueur---lvmh)
   - [@ Drone Volt Group](#-drone-volt-group)
   - [@ IAS - LSS](#-ias---lss)
@@ -119,7 +119,7 @@
 
 ## Réalisations
 
-###  @ SNCF Réseau
+###  SNCF Réseau
 
 - **Titre** : Télédiagnostic des capteurs de surveillance des trains
 
