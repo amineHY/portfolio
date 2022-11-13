@@ -5,3 +5,7 @@
 - [Portfolio FR](ressources/portfolio_src/portfolio_fr.md)
 
 - [Portfolio EN](ressources/portfolio_src/portfolio_en.md)
+
+
+
+<!-- npx @marp-team/marp-cli@latest  -w ressources/portfolio_slide/portfolio_fr.md --pdf --allow-local-files --pdf-outlines -->

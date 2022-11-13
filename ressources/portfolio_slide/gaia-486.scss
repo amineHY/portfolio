@@ -1,0 +1,21 @@
+/*!
+ * @theme gaia-486
+ * @size 1K 1728px 972px
+ * @size 2K 1728px 1944px
+ * @size 4K 3456px 1944px
+ */
+
+ @import 'gaia';
+
+ section {
+   font-size: 35px; /* The default font size for gaia theme */
+ }
+ 
+ section[data-size="1K"],
+ section[data-size="2K"] {
+   font-size: 42px; /* x1.2 of the default font size */
+ }
+ 
+ section[data-size="4K"] {
+   font-size: 70px; /* x2 of the default font size */
+ }
