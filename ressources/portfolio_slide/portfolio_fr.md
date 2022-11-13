@@ -28,7 +28,7 @@ Senior Data Scientist & Machine Learning
 
 ## Hi 👋
 
-- Docteur Data Scientist, mon objectif est d'accompagner les clients sur leurs projets data, de la définition du besoin jusqu'à la mise en production, dans le but de résoudre des problématiques métiers concrets, d'apporter de la valeur ajoutée et d'augmenter le chiffre d'affaires. 
+- Docteur Data Scientist, mon objectif est d'accompagner les clients sur leurs projets data, de la définition du besoin jusqu'à la mise en production, dans le but de résoudre des problématiques métiers concrets, d'apporter de la valeur ajoutée et d'augmenter le chiffre d'affaires.
 - J’attache de l’importance au transfert de connaissances par le biais de l’encadrement et de la formation des juniors.
 
 <!-- - Information technologie et services
@@ -71,11 +71,11 @@ section {
 
 |                    | Outils                                        |
 | ------------------ | --------------------------------------------- |
+| Data Science       | Python, SQL, NumPy, pandas, Apache Spark      |
+| Machine Learning   | Scikit-learn, AWS Sagemaker, HyperOpt, MLflow |
 | Data Engineering   | Airtable, postgres, Delta Lake                |
 | Data Visualisation | PowerBI, Tableau, Redash                      |
 | Big Data           | Apache Spark, Azure Databricks                |
-| Data Science       | Python, SQL, NumPy, pandas, Apache Spark      |
-| Machine Learning   | Scikit-learn, AWS Sagemaker, HyperOpt, MLflow |
 | DevOps             | Git, GitHub, Docker, Flask, FastAPI, Postman  |
 | Cloud              | Microsoft Azure, AWS, GCP                     |
 | Computer Vision    | OpenCV, Tensorflow                            |
@@ -121,6 +121,12 @@ section {
 
 ![h:100](https://upload.wikimedia.org/wikipedia/fr/e/ec/Logo_SNCF_R%C3%A9seau_2015.svg)
 
+- Senior Data Scientist - Ingénieur Machine Learning
+- Paris, France
+- 2020-2022
+
+---
+
 - _SNCF Réseau_ est une entreprise Française responsable de la maintenance et la sécurité du réseau ferroviaire dans toute la France. A travers le programme de supervision et de surveillance, la DGII assure la maintenance du réseau et la régénération des équipements. Des données massives sont collectées tous les jours par des capteurs connectés indiquant different mesures: vitesse des trains, températures des rails, état des appareils de voies,...
 - Mon role de Data Scientist au sein de l'équipe _Data Science et Décision_ est d'accompagner les différents équipes métier à définir le besoin, développer des solutions techniques adaptés au besoin, et d'assurer la communication sur le sujet avec les différents acteur du projet.
 
@@ -144,10 +150,15 @@ section {
 
 ![bg opacity:.25](https://luxshopping.vn/Uploads/UserFiles/images/dong-ho-TAG-Heuer-Connected-Modular-45-%E2%80%98Golf-Edition%E2%80%99%208.jpg)
 
-
 ### 💼 TAG Hueur - LVMH
 
 ![h:100](https://upload.wikimedia.org/wikipedia/commons/5/57/TAG_HEUER_logo.svg)
+
+- Data Scientist - Data Engineer
+- Paris, France
+- 2020
+
+---
 
 - TAG Heuer est un horloger de luxe suisse qui conçoit, fabrique et commercialise des montres et des accessoires de mode. Dans le but d'élargir la gamme de ses produit, TAG Hueur a lancé au marché un nouveau modèle de montre intelligente de luxe, connectées, adaptés pour les activités sportives (running, swimming, gulf). Dotée de différentes capteurs (WiFi, GPS, Podomètre, Cardiogramme), la montre embarque différents algorithmes pour traiter les données mesurées en temps réels, et calculer des métriques de sports.
 
@@ -170,14 +181,19 @@ section {
 
 ---
 
-![bg opacity:.25](https://fra1.digitaloceanspaces.com/aircosmos/media/5d35c2c0d06eb04c0262988cf36ebe7bb51ae13e3c3490e430e2902a92572166.png)
-
-
-
+![bg opacity:0.2 fit](https://www.dronevolt.com/wp-content/uploads/2020/01/h10site-1024x621.jpg)
 
 ### 💼 Drone Volt
 
 ![h:100](../logo/logo_dronevolt_menu.svg)
+
+- Ingénieur IA - Computer Vision
+- Villepinte, France
+- 2019
+
+---
+
+![bg opacity:.25](https://fra1.digitaloceanspaces.com/aircosmos/media/5d35c2c0d06eb04c0262988cf36ebe7bb51ae13e3c3490e430e2902a92572166.png)
 
 - DRONE VOLT est un acteur international reconnu dans le domaine des drones civils professionnels et l'intelligence artificielle embarquée. Après l'acquisition d'Aérialtronics, Drone Volt a lancé une nouvelle caméra intelligente, [PENSAR](https://pensarsdk.com/).
 
@@ -203,45 +219,83 @@ section {
 
 ![bg opacity:.25](https://cdn.hswstatic.com/gif/jwst-vs-hubble-1200x800.jpg)
 
-
-
 ### 💼 IAS
 
-![h:100](https://assets9.domestika.org/project-covers/000/056/879/56879-original-78247-original-IAS_principal.jpg?1343660766)
+![h:100 right](https://assets9.domestika.org/project-covers/000/056/879/56879-original-78247-original-IAS_principal.jpg?1343660766)
 
-- Titre du projet : Spatio-spectral reconstruction from multispectral data. Application to the Mid-Infrared instrument of the JWST
+- Ingénieur Machine Learning - Traitement d'image
+- Orsay, France
+- 2015-2018
 
-- Description de la réalisation : In charge of innovating a data processing solution for the JWST / NASA space telescope (14 countries, budget> $ 10 billion)
-
----
-
-- Solution du projet: ...
-- URL du Projet : [sci.esa.int/web/jwst](https://sci.esa.int/web/jwst/-/46826-miri-the-mid-infrared-instrument-on-jwst)
+* Porteur du projet: ![h:100](https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg)![h:100](https://upload.wikimedia.org/wikipedia/commons/8/80/ESA_logo.svg)![h:100](https://upload.wikimedia.org/wikipedia/en/7/77/Canadian_Space_Agency_logo.svg)
 
 ---
 
-![h:300](../images/2022-10-18_22-36.png) ![h:300](../images/2022-10-18_22-36_2.png)![h:300](../images/Untitled%2012.png) ![h:300](../images/Untitled%2011.png)
+![bg opacity:0.1](https://upload.wikimedia.org/wikipedia/commons/5/50/James_Webb_Space_Telescope.jpg)
+James-Webb Space Telescope (JWST) est un télescope spatial servant d'observatoire fonctionnant principalement dans l'infrarouge, développé par la NASA avec la participation de l'Agence spatiale européenne (ESA) et de l'Agence spatiale canadienne (ASC). Plus grand et plus onéreux télescope spatial à son lancement, le JWST est conçu pour poursuivre les travaux du télescope spatial Hubble,
+
+Les principales objectifs de la mission [JWST](https://sci.esa.int/web/jwst/-/46826-miri-the-mid-infrared-instrument-on-jwst) est d'étudier la formation et évolution des galaxies, de plus, la compréhension de la formation des étoiles et les systèmes planétaires.
+
+---
+
+![bg opacity:.15 contain](image_photo_flux.png)
+
+<!-- - Contexte: Spatio-spectral reconstruction from multispectral data. Application to the Mid-Infrared instrument of the JWST -->
+
+Le JWST est doté d'un imageur infrarouge (MIRI) permettant de mesurer des observation dans un milieu infrarouge 5.6-7 microns. Divers problèmes sont rencontrés lors des mesures Limitation de la résolution spatiale par
+
+A cause des limites physique, la réponse optique des miroirs limite la résolution spatiale des images, et dépend de λ. De plus, le contenu spectrale de l’objet observé est intégré sur une large bande spectrale (filtre + détecteur)
+
+---
+
+- Mon objectif en tant qu'Ingénieur de traitement d'image / Machine Learning est de reconstruire objet spatio-spectral original en exploitant l’ensemble de données à différentes bandes spectrales
+
+  - Proposition d'un modèle instrument de l’imageur infrarouge, prenant en compte la variation en λ de la PSF et de large intégration spectrale
+  - Proposition d'un modèle direct par un traitement conjoint de données multi-filtre/instrument et choix du modèle linéaire par morceau
+  - Augmentation de résolution spatial et de l’information spectrale
+
+---
+
+ <!-- ![bg fit](../images/2022-10-18_22-36_2.png) -->
+
+![bg fit](../images/Untitled%2011.png)
+![bg fit](image_modele_direct.png)
+![bg fit](../images/Untitled%2012.png)
 
 ---
 
 ![bg opacity:0.25](https://assets.newatlas.com/dims4/default/47396f4/2147483647/strip/true/crop/5646x3764+0+0/resize/1440x960!/quality/90/?url=http:%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F50%2F86%2Ffbab5065408aa969de02585542bb%2Fdepositphotos-163337952-xl-2015.jpg)
 
-### ENP
+### 💼 ENP
 
 ![h:100](https://upload.wikimedia.org/wikipedia/fr/3/35/Logo_Ecole_Nationale_Polytechnique_ENP.jpg)
 
-- Titre du projet:
-
-- Description de la réalisation:
-
----
-
-- Solution du projet: ...
-- URL du Projet: [https://ieeexplore.ieee.org/abstract/document/6602363](https://ieeexplore.ieee.org/abstract/document/6602363)
+- Ingénieur Machine Learning
+- Alger, Algérie
+- 2013
 
 ---
 
-![h:300](../images/The-Principle-of-an-EEG-System-1.png)![h:300](../images/2022-10-18_22-39.png)![h:300](../images/2022-10-18_22-40.png)
+![bg contain opacity:0.2](https://cablab.umn.edu/sites/cablab.umn.edu/files/2019-07/Research%20methods%20EEG.jpg)
+
+L'objectif du projet est de développer une méthode de détection des épilepsies (en état de repos), qui soit assimilable à un diagnostic précoce de la maladie. Cette méthode peut être utilisée comme un outil de diagnostic assisté par ordinateur par les praticiens de la neurophysiologie. Cela permettra d'anticiper le traitement de la pathologie et de protéger le patient en cas de crises d'épilepsie.
+
+En tant qu'ingénieur en machine learning, j'ai travaillé sur un sujet de classification des signaux Electro-encéphalogramme (EEG) pour la détection d'épilepsie.
+
+---
+
+- Etude de l'état de l'art et comparaison entre les méthodes dans la littérature
+- Préparation et analyse de données
+- Concevoir une chaîne de traitement des séries temporelles basé sur le machine learning et la transformation en ondelettes sous Matlab
+- Obtention de très bon résultat de classification par rapport à l'état de l'art (précision >90%)
+
+- Pour plus de détail :
+  - [https://ieeexplore.ieee.org/abstract/document/6602363](https://ieeexplore.ieee.org/abstract/document/6602363)
+
+---
+
+![bg fit](../images/2022-10-18_22-39.png)
+![bg fit](../images/2022-10-18_22-40.png)
 
 ---
 
@@ -261,21 +315,21 @@ section {
 
 ### 📖 Publication dans des conférence internationaux
 
-- Hadj-Youcef, M. A., Bousbia-Salah, A., & Adnane, M. (2018). Feature selection applied to wavelet packet transform for an efficient EEG signal classification. _2018 International Conference on Electrical Sciences and Technologies in Maghreb (**CISTEM**)_, 1–6.
+- Hadj-Youcef, M. A., Bousbia-Salah, A., & Adnane, M. (2018). Feature selection applied to wavelet packet transform for an efficient EEG signal classification. 2018 International Conference on Electrical Sciences and Technologies in Maghreb.
 
-- Hadj-youcef, A. (2014). _Reconstruction des Images par des méthodes d’optimisation convexes et non lisses_.
+- Hadj-youcef, A. (2014). Reconstruction des Images par des méthodes d’optimisation convexes et non lisses.
 
-- Hadj-youcef, M. A., & Abergel, A. (2017). Restauration d’objets astrophysiques à partir de données multispectrales floues et une réponse instrument non stationnaire. **_Gdr Isis_**, _123_(908), 2017.
+- Hadj-youcef, M. A., & Abergel, A. (2017). Restauration d’objets astrophysiques à partir de données multispectrales floues et une réponse instrument non stationnaire. Gdr Isis, 123(908), 2017.
 
-- Orieux, F., Fraysse, A., & Abergel, A. (2018). _Restoration from Multispectral Blurred Data with Non-Stationary Instrument Response_. _ii_, 1–5.
+- Orieux, F., Fraysse, A., & Abergel, A. (2018).Restoration from Multispectral Blurred Data with Non-Stationary Instrument Response. ii, 1–5.
 
 ---
 
-- Hadj-Youcef, M. E. (2018). _Spatio spectral reconstruction from low-resolution multispectral data: application to the Mid-Infrared instrument of the James Webb Space Telescope_. Université Paris-Saclay (**ComUE**).
+- Hadj-Youcef, M. E. (2018). Spatio spectral reconstruction from low-resolution multispectral data: Application to the Mid-Infrared instrument of the James Webb Space Telescope. Université Paris-Saclay (ComUE).
 
-- Hadj-Youcef, M. A., Orieux, F., Fraysse, A., & Abergel, A. (2018). Spatio-spectral multichannel reconstruction from few low-resolution multispectral data. _2018 26th European Signal Processing Conference (**EUSIPCO**)_, 1980–1984.
+- Hadj-Youcef, M. A., Orieux, F., Fraysse, A., & Abergel, A. (2018). Spatio-spectral multichannel reconstruction from few low-resolution multispectral data. 2018 26th European Signal Processing Conference (EUSIPCO), 1980–1984.
 
-- Hadj-Youcef, M. A., Adnane, M., & Bousbia-Salah, A. (2013). Detection of epileptics during seizure-free periods. _2013 8th International Workshop on Systems, Signal Processing and Their Applications, **WoSSPA** 2013_, _May_, 209–213. [https://doi.org/10.1109/WoSSPA.2013.6602363](https://doi.org/10.1109/WoSSPA.2013.6602363)
+- Hadj-Youcef, M. A., Adnane, M., & Bousbia-Salah, A. (2013). Detection of epileptics during seizure-free periods. 2013 8th International Workshop on Systems, Signal Processing and Their Applications, WoSSPA 2013, May, 209–213. [https://doi.org/10.1109/WoSSPA.2013.6602363](https://doi.org/10.1109/WoSSPA.2013.6602363)
 
 ---
 
