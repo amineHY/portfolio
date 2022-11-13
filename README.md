@@ -7,5 +7,5 @@
 - [Portfolio EN](ressources/portfolio_src/portfolio_en.md)
 
 
-
+<!-- export CHROME_PATH=/usr/bin/brave-browser -->
 <!-- npx @marp-team/marp-cli@latest  -w ressources/portfolio_slide/portfolio_fr.md --pdf --allow-local-files --pdf-outlines -->
