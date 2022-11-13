@@ -24,9 +24,12 @@ Senior Data Scientist & Machine Learning
 
 ---
 
+![bg right:25% contain opacity:.25](../images/photo_linkedin_2020.png)
+
 ## Hi 👋
 
-- Docteur Data Scientist, mon objectif est d'accompagner les clients sur leurs projets data, de la définition du besoin jusqu'à la mise en production, dans le but de résoudre des problématiques métiers concrets, d'apporter de la valeur ajoutée et d'augmenter le chiffre d'affaires. J’attache de l’importance au transfert de connaissances par le biais de l’encadrement et de la formation des juniors.
+- Docteur Data Scientist, mon objectif est d'accompagner les clients sur leurs projets data, de la définition du besoin jusqu'à la mise en production, dans le but de résoudre des problématiques métiers concrets, d'apporter de la valeur ajoutée et d'augmenter le chiffre d'affaires. 
+- J’attache de l’importance au transfert de connaissances par le biais de l’encadrement et de la formation des juniors.
 
 <!-- - Information technologie et services
 - Industrie, Aéronautique & Spatiale, Ferroviaire, ... -->
@@ -80,6 +83,8 @@ section {
 
 ---
 
+![bg opacity:.25](https://www.graduateprogram.org/wp-content/uploads/2020/08/Aug-6-What-are-the-Advantages-of-a-Doctorate-Degree-in-Education__web.jpg)
+
 ## Formations
 
 - 🎓 Doctorat, Sciences et Technologies de l’Information
@@ -110,11 +115,14 @@ section {
 
 ---
 
-![bg left:10% contain](https://upload.wikimedia.org/wikipedia/fr/e/ec/Logo_SNCF_R%C3%A9seau_2015.svg)
+![bg opacity:.25](https://assets.website-files.com/5d07afe28195606a40dc5223/5df7601d5d5668d49c44fa22_Two-SNCF-TGV-Trains.jpg)
 
-- Télédiagnostic des capteurs de surveillance et maintenance
-  - _SNCF Réseau_ est une entreprise Française responsable de la maintenance et la sécurité du réseau ferroviaire dans toute la France. A travers le programme de supervision et de surveillance, la DGII assure la maintenance du réseau et la régénération des équipements. Des données massives sont collectées par des capteurs connectés indiquant different mesures: vitesse des trains, températures des rails, état des appareils de voies, ...
-- Mon role au sein de l'équipe _Data Science et Décision_ est d'accompagner les différents équipes métier à définir le besoin, développer des solutions techniques adaptés au besoin, et d'assurer la communication sur le sujet avec les différents acteur du projet.
+### 💼 SNCF
+
+![h:100](https://upload.wikimedia.org/wikipedia/fr/e/ec/Logo_SNCF_R%C3%A9seau_2015.svg)
+
+- _SNCF Réseau_ est une entreprise Française responsable de la maintenance et la sécurité du réseau ferroviaire dans toute la France. A travers le programme de supervision et de surveillance, la DGII assure la maintenance du réseau et la régénération des équipements. Des données massives sont collectées tous les jours par des capteurs connectés indiquant different mesures: vitesse des trains, températures des rails, état des appareils de voies,...
+- Mon role de Data Scientist au sein de l'équipe _Data Science et Décision_ est d'accompagner les différents équipes métier à définir le besoin, développer des solutions techniques adaptés au besoin, et d'assurer la communication sur le sujet avec les différents acteur du projet.
 
 ---
 
@@ -134,55 +142,56 @@ section {
 
 ---
 
-### ![h:100](https://upload.wikimedia.org/wikipedia/commons/5/57/TAG_HEUER_logo.svg)
+![bg opacity:.25](https://luxshopping.vn/Uploads/UserFiles/images/dong-ho-TAG-Heuer-Connected-Modular-45-%E2%80%98Golf-Edition%E2%80%99%208.jpg)
+
+
+### 💼 TAG Hueur - LVMH
+
+![h:100](https://upload.wikimedia.org/wikipedia/commons/5/57/TAG_HEUER_logo.svg)
 
 - TAG Heuer est un horloger de luxe suisse qui conçoit, fabrique et commercialise des montres et des accessoires de mode. Dans le but d'élargir la gamme de ses produit, TAG Hueur a lancé au marché un nouveau modèle de montre intelligente de luxe, connectées, adaptés pour les activités sportives (running, swimming, gulf). Dotée de différentes capteurs (WiFi, GPS, Podomètre, Cardiogramme), la montre embarque différents algorithmes pour traiter les données mesurées en temps réels, et calculer des métriques de sports.
 
 ---
 
-- Mon role dans l'équipe Traitement du signal est de proposer des algorithmes de détection d'outlier causer par la perte du signal GPS, afin d'amélioration des KPI de l’application de la montre [*TAG Hueur Connected*](https://www.tagheuer.com/fr/fr/smartwatches/collection-connected.html)
+- Mon role dans l'équipe Traitement du signal est de proposer des algorithmes de détection d'outlier causer par la perte du signal GPS, afin d'amélioration des KPI de l’application de la montre [_TAG Hueur Connected_](https://www.tagheuer.com/fr/fr/smartwatches/collection-connected.html)
 
-
-- Parmi les taches réalisées:
+- En tant que Data Scientist, j'ai réalisé les taches suivantes:
   - Traitement, nettoyage, préparation, analyse de données du capteurs (GPS...)
   - Développement d'algorithme machine learning pour détecter les anomalies
   - Conception d’une application web pour interagir avec les algorithmes développées
   - Communication des résultats et participation aux réunions
 
-**Tech**:  Python (pandas, Numpy, scikit-learn), Docker, Streamlit
+**Tech**: Python (pandas, Numpy, scikit-learn), Docker, Streamlit
 
 ---
 
-![bg h:250](../images/Untitled%206.png) 
+![bg h:250](../images/Untitled%206.png)
 ![bg h:240](../images/Untitled%205.png)
 
 ---
 
-### ![h:100](../logo/logo_dronevolt_menu.svg)
+![bg opacity:.25](https://fra1.digitaloceanspaces.com/aircosmos/media/5d35c2c0d06eb04c0262988cf36ebe7bb51ae13e3c3490e430e2902a92572166.png)
 
-- DRONE VOLT est un acteur international reconnu dans le domaine des drones civils professionnels et l'intelligence artificielle embarquée. Après l'acquisition d'Aérialtronics, Drone Volt a lancé  une nouvelle caméra intelligente, [PENSAR](https://pensarsdk.com/). 
- 
 
-- The deep learning model for the detection of fire in a video. 
-- The algorithm is embedded in the edge camera and runs in real-time.
-- Collecting and annotating data to Training and testing a deep learning model.
 
----
 
-- Collectes, préparation et annotation des images pour entraîner le modèle deep learning
-- Entraînement du modèle deep learning pour la détection du feu en temps réel
-- Déploiement sur la caméra du drone à l’aide de Python, Tensorflow, Docker, GPU, Git.
-- Travail d'équipe agile pour le développement du SDK de la caméra
-- Rédaction de la documentation technique de la solution IA
-- Formation de l’équipe commerciale du DRONE VOLT sur l'intelligence artificielle
-- Présentation de la solution aux clients et investisseurs du groupe
+### 💼 Drone Volt
 
+![h:100](../logo/logo_dronevolt_menu.svg)
+
+- DRONE VOLT est un acteur international reconnu dans le domaine des drones civils professionnels et l'intelligence artificielle embarquée. Après l'acquisition d'Aérialtronics, Drone Volt a lancé une nouvelle caméra intelligente, [PENSAR](https://pensarsdk.com/).
+
+- Descriptif du produit : [https://pensarsdk.com/](https://pensarsdk.com/)
 
 ---
 
-- Solution du projet
-
-- URL du Projet : [https://pensarsdk.com/](https://pensarsdk.com/)
+- En tant qu'ingénieur IA - Computer Vision, j'ai réalisé les taches suivantes:
+  - Collectes, préparation et annotation des images pour entraîner le modèle deep learning
+  - Entraînement du modèle deep learning pour la détection du feu en temps réel
+  - Travail d'équipe agile pour le développement du SDK de la caméra
+  - Rédaction de la documentation technique de la solution IA
+  - Formation de l’équipe commerciale du DRONE VOLT sur l'intelligence artificielle
+  - Présentation de la solution aux clients et investisseurs du groupe
 
 ---
 
@@ -192,7 +201,13 @@ section {
 
 ---
 
-### ![h:100](https://assets9.domestika.org/project-covers/000/056/879/56879-original-78247-original-IAS_principal.jpg?1343660766)
+![bg opacity:.25](https://cdn.hswstatic.com/gif/jwst-vs-hubble-1200x800.jpg)
+
+
+
+### 💼 IAS
+
+![h:100](https://assets9.domestika.org/project-covers/000/056/879/56879-original-78247-original-IAS_principal.jpg?1343660766)
 
 - Titre du projet : Spatio-spectral reconstruction from multispectral data. Application to the Mid-Infrared instrument of the JWST
 
@@ -209,7 +224,11 @@ section {
 
 ---
 
-### ![h:100](https://upload.wikimedia.org/wikipedia/fr/3/35/Logo_Ecole_Nationale_Polytechnique_ENP.jpg)
+![bg opacity:0.25](https://assets.newatlas.com/dims4/default/47396f4/2147483647/strip/true/crop/5646x3764+0+0/resize/1440x960!/quality/90/?url=http:%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F50%2F86%2Ffbab5065408aa969de02585542bb%2Fdepositphotos-163337952-xl-2015.jpg)
+
+### ENP
+
+![h:100](https://upload.wikimedia.org/wikipedia/fr/3/35/Logo_Ecole_Nationale_Polytechnique_ENP.jpg)
 
 - Titre du projet:
 
