@@ -1,0 +1,12 @@
+= Portfolio
+// docker run -it -v $(pwd):/documents/ asciidoctor/docker-asciidoctor
+
+:link-spark: https://files.training.databricks.com/images/105/logo_spark_tiny.png
+
+image:{link-spark}[Spark Logo Tiny] Ce repo contient mes portfolios en Français et en Anglais
+
+- link:ressources/portfolio_slide/portfolio_fr.md[Portfolio FR]
+
+- link:ressources/portfolio_slide/portfolio_en.md[Portfolio EN]
+
+
