@@ -2,7 +2,6 @@
 :keywords: Data Science, Machine Learning
 :toc: auto
 
-
 Amine Hadj-Youcef. PhD Senior Data Scientist & Machine Learning
 
 image::../images/photo_linkedin_2020.png[height=300]
@@ -234,11 +233,9 @@ image:../images/Untitled%2011.png[height=300]
 image:image_modele_direct.png[height=300]
 image:../images/Untitled%2012.png[height=300]
 
-
 image::https://assets.newatlas.com/dims4/default/47396f4/2147483647/strip/true/crop/5646x3764+0+0/resize/1440x960!/quality/90/?url=http:%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F50%2F86%2Ffbab5065408aa969de02585542bb%2Fdepositphotos-163337952-xl-2015.jpg[height=300]
 
 ===  ENP
-
 
 image::https://upload.wikimedia.org/wikipedia/fr/3/35/Logo_Ecole_Nationale_Polytechnique_ENP.jpg[h=100]
 

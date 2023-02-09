@@ -5,8 +5,9 @@
 
 image:{link-spark}[Spark Logo Tiny] Ce repo contient mes portfolios en Français et en Anglais
 
-- link:ressources/portfolio_slide/portfolio_fr.md[Portfolio FR]
+- link:ressources/portfolio_slide/portfolio_fr.html[Portfolio FR]
 
-- link:ressources/portfolio_slide/portfolio_en.md[Portfolio EN]
+- link:ressources/portfolio_slide/portfolio_en.html[Portfolio EN]
 
 
+// regex : ^$\n\n+  =>  \n
