@@ -1,6 +1,6 @@
 = Portfolio
+:toc: auto
 // docker run -it -v $(pwd):/documents/ asciidoctor/docker-asciidoctor
-
 :link-spark: https://files.training.databricks.com/images/105/logo_spark_tiny.png
 
 image:{link-spark}[Spark Logo Tiny] Ce repo contient mes portfolios en Français et en Anglais
@@ -11,3 +11,6 @@ image:{link-spark}[Spark Logo Tiny] Ce repo contient mes portfolios en Français
 
 
 // regex : ^$\n\n+  =>  \n
+// using marp
+// <!-- export CHROME_PATH=/usr/bin/brave-browser -->
+// <!-- npx @marp-team/marp-cli@latest  -w ressources/portfolio_slide/portfolio_fr.md --pdf --allow-local-files --pdf-outlines -->
