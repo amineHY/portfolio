@@ -1,8 +1,8 @@
-= Portfolio EN
+= Portfolio 🇺🇸
 :keywords: Data Science, Machine Learning
 :toc: auto
 
-Amine Hadj-Youcef, PhD 15/01/2023
+// Amine Hadj-Youcef, PhD 15/01/2023
 
 == Introduction
 
@@ -117,10 +117,10 @@ massives pour la détection de pannes et l’envoi automatique des alarmes
 vers le centre de supervision (Databricks Workflows, Apache Spark,
 Python, SQL).
 
-* *Média* image:../images/Untitled%202.png[h:250]
-image:../images/Untitled%204.png[h:300]
-image:../images/Untitled%203.png[h:250]
-image:../images/Untitled%201.png[h:200]
+* *Média* image:../images/Untitled%202.png[image, 250]
+image:../images/Untitled%204.png[image, 300]
+image:../images/Untitled%203.png[image, 250]
+image:../images/Untitled%201.png[image, 200]
 
 === TAG Hueur - LVMH
 
@@ -186,11 +186,11 @@ image:../images/2022-10-18_22-41.png[image] |
 
 === 📖 Publisher List
 
-image::../logo/eurasip-logo-trans02.png[height=70]
-image::../logo/medium[height=70]
-image::../logo/IEEE[height=70]
-image::../logo/A_and_A[height=70]
-image::../logo/paris_saclay[height=70]
+image::../logo/eurasip-logo-trans02.png[image, 70]
+image::../logo/medium[image, 70]
+image::../logo/IEEE[image, 70]
+image::../logo/A_and_A[image, 70]
+image::../logo/paris_saclay[image, 70]
 
 === 📖 Publication in Scientific Journals
 
