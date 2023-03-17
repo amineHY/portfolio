@@ -5,10 +5,14 @@
 
 image:{link-spark}[Spark Logo Tiny] Ce repo contient mes portfolios en Français et en Anglais
 
-- link:ressources/portfolio_slide/portfolio_fr.html[Portfolio FR]
+- link:source/portfolio_fr.html[Portfolio 🇫🇷]
+- link:source/portfolio_en.html[Portfolio 🇺🇸]
 
-- link:ressources/portfolio_slide/portfolio_en.html[Portfolio EN]
+- link:publication/publication_fr.html[publication 🇫🇷]
+- link:publication/publication_en.html[publication 🇺🇸]
 
+- link:cv/cv_fr.html[CV 🇫🇷]
+- link:cv/cv_en.html[CV 🇺🇸]
 
 // regex : ^$\n\n+  =>  \n
 // using marp
